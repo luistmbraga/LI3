@@ -1,4 +1,4 @@
-# Laboratórios de Informática 3
+# Laboratórios de Informática 3 - 17/18
 
 Repositório para o projecto da UC Laboratórios de Informática 3
 
