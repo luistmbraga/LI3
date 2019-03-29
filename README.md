@@ -8,4 +8,4 @@ Java: 13.7 valores
 
 Comentários:
 
-Modificar os módulos de modo a que, com facilidade, leia de outros formatos sem ser XML (mais modularidade).
+Modificar os módulos de modo a que, com facilidade, leia de outros formatos sem ser XML (mais modularidade). A parte de C não usa o glib e isso tem de ser bem justificado na apresentação oral.
